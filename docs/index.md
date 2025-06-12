@@ -127,10 +127,22 @@ Robot Pouring ingredient To Cup
 </div>
 
 
-
 <h3 style="text-align: center; font-size: 1.5em; margin-top: 1em;">
-Experiment with Robot
+Robot Work
 </h3>
+<img src="workflow.png" 
+    style="
+    display: block;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    max-width: 100%;
+    height: auto;
+  "
+/>
+
+<h4 style="text-align: center; font-size: 1.5em; margin-top: 1em;">
+Experiment with Robot
+</h4>
 
 <p align="center"
    style="font-size: 1.3em; color: #555; margin-top: 0.1em;font-weight: bold;">
