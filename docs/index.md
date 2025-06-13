@@ -161,7 +161,7 @@ Success/Fail case
 >
   <!-- 왼쪽 비디오 -->
   <iframe
-    src="https://youtu.be/QDpbhphWOZo"
+    src="https://www.youtube.com/embed/QDpbhphWOZo"
     title="Success case - Pour"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
@@ -176,7 +176,7 @@ Success/Fail case
 
   <!-- 오른쪽 비디오 -->
   <iframe
-    src="https://youtu.be/G0jwl1BaSDI"
+    src="https://www.youtube.com/embed/G0jwl1BaSDI"
     title="Fail case - When we don't have ingredient"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
