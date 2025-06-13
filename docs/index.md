@@ -155,7 +155,7 @@ Success/Fail case
     justify-content: space-between;
     flex-wrap: wrap;
     gap: 1em;
-    max-width: 1200px;
+    max-width: 2000px;
     margin: 2em auto;
   "
 >
