@@ -140,43 +140,54 @@ Robot Work
   "
 />
 
-<div style="
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  max-width: 800px;
-  margin: 0 auto;
-">
+<p style="margin-top: 0.5em; font-size: 1em; line-height: 1.4;">
+<br><br>
+    </p>
 
-  <!-- 왼쪽 블록 -->
-  <div style="flex: 0 0 48%; text-align: center; margin-bottom: 1em;">
-<p align="center">
+<div
+  style="
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1em;
+    max-width: 1200px;
+    margin: 2em auto;
+  "
+>
+  <!-- 왼쪽 비디오 -->
   <iframe
     src="https://www.youtube.com/embed/Yp4QAQ76CIc"
-    frameborder="0"
+    title="Experimental Workspace"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
-    style="width: 100%;"
+    style="
+      flex: 0 0 48%;
+      aspect-ratio: 16 / 9;
+      width: 100%;
+      height: auto;
+      border: none;
+    "
   ></iframe>
-</p>
-    <p style="margin-top: 0.5em; font-size: 1em; line-height: 1.4;">
-      Experimental Workspace
-    </p>
-  </div>
 
-  <!-- 오른쪽 블록 -->
-  <div style="flex: 0 0 48%; text-align: center; margin-bottom: 1em;">
+  <!-- 오른쪽 비디오 -->
   <iframe
     src="https://www.youtube.com/embed/Yp4QAQ76CIc"
-    frameborder="0"
+    title="Robot Pouring ingredient To Cup"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
-    style="width: 100%;"
+    style="
+      flex: 0 0 48%;
+      aspect-ratio: 16 / 9;
+      width: 100%;
+      height: auto;
+      border: none;
+    "
   ></iframe>
-    <p style="margin-top: 0.5em; font-size: 1em; line-height: 1.4;">
-Robot Pouring ingredient To Cup
-    </p>
-  </div>
-
 </div>
+<p align="center" style="max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; gap: 1em;">
+  <span style="flex: 0 0 48%; text-align: center;">Experimental Workspace</span>
+  <span style="flex: 0 0 48%; text-align: center;">Robot Pouring ingredient To Cup</span>
+</p>
 
 <h4 style="text-align: center; font-size: 1.5em; margin-top: 1em;">
 <br><br>Experiment with Robot
