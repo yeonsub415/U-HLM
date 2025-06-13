@@ -193,6 +193,11 @@ Success/Fail case
   <span style="flex: 0 0 48%; text-align: center;">Success case - Pour</span>
   <span style="flex: 0 0 48%; text-align: center;">Fail case - When we don't have ingredient</span>
 </p>
+<p align="center"
+   style="font-size: 1.3em; color: #555; margin-top: 0.1em;font-weight: bold;">
+<br><br>
+</p>
+
 
 <p align="center">
   <iframe
@@ -202,9 +207,6 @@ Success/Fail case
     allowfullscreen
     style="max-width:100%;"
   ></iframe>
-</p>
-<p align="center" style="max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; gap: 1em;">
-  <span style="flex: 0 0 48%; text-align: center;">Fail case - No action in Robot</span>
 </p>
 
 
