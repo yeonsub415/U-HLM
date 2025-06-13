@@ -149,53 +149,29 @@ Robot Work
 Success/Fail case
 </p>
 
-<div
-  style="
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 1em;
-    max-width: 2000px;
-    margin: 2em auto;
-  "
->
-  <!-- 왼쪽 비디오 -->
+<p align="center">
   <iframe
+    width="800" height="450"
     src="https://www.youtube.com/embed/QDpbhphWOZo"
-    title="Success case - Pour"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    frameborder="0"
     allowfullscreen
-    style="
-      flex: 0 0 48%;
-      aspect-ratio: 16 / 9;
-      width: 100%;
-      height: auto;
-      border: none;
-    "
+    style="max-width:100%;"
   ></iframe>
-
-  <!-- 오른쪽 비디오 -->
-  <iframe
-    src="https://www.youtube.com/embed/G0jwl1BaSDI"
-    title="Fail case - When we don't have ingredient"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen
-    style="
-      flex: 0 0 48%;
-      aspect-ratio: 16 / 9;
-      width: 100%;
-      height: auto;
-      border: none;
-    "
-  ></iframe>
-</div>
-<p align="center" style="max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; gap: 1em;">
-  <span style="flex: 0 0 48%; text-align: center;">Success case - Pour</span>
-  <span style="flex: 0 0 48%; text-align: center;">Fail case - When we don't have ingredient</span>
 </p>
+
+<p align="center">
+  <iframe
+    width="800" height="450"
+    src="https://www.youtube.com/embed/G0jwl1BaSDI"
+    frameborder="0"
+    allowfullscreen
+    style="max-width:100%;"
+  ></iframe>
+</p>
+
 <p align="center"
    style="font-size: 1.3em; color: #555; margin-top: 0.1em;font-weight: bold;">
-<br><br>
+<br>
 </p>
 
 
