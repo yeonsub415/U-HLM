@@ -156,8 +156,8 @@ Robot Work
 >
   <!-- 왼쪽 비디오 -->
   <iframe
-    src="https://www.youtube.com/embed/Yp4QAQ76CIc"
-    title="Experimental Workspace"
+    src="https://youtu.be/QDpbhphWOZo"
+    title="Success case - Pour"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
     style="
@@ -171,8 +171,8 @@ Robot Work
 
   <!-- 오른쪽 비디오 -->
   <iframe
-    src="https://www.youtube.com/embed/Yp4QAQ76CIc"
-    title="Robot Pouring ingredient To Cup"
+    src="https://youtu.be/G0jwl1BaSDI"
+    title="Fail case - When we don't have ingredient"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
     style="
