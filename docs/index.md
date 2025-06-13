@@ -159,8 +159,8 @@ Success/Fail case
   ></iframe>
 </p>
 <p align="center"
-   style="font-size: 1.3em; color: #555; margin-top: 0.1em;font-weight: bold;">
-<br>Success case - Pour
+   style="font-size: 1.1em; color: #555; margin-top: 0.1em;font-weight: bold;">
+Success case - Pour<br>
 </p>
 
 <p align="center">
@@ -173,8 +173,8 @@ Success/Fail case
   ></iframe>
 </p>
 <p align="center"
-   style="font-size: 1.3em; color: #555; margin-top: 0.1em;font-weight: bold;">
-<br>Fail case - When we don't have ingredient
+   style="font-size: 1.1em; color: #555; margin-top: 0.1em;font-weight: bold;">
+Fail case - When we don't have ingredient<br>
 </p>
 
 
@@ -188,8 +188,8 @@ Success/Fail case
   ></iframe>
 </p>
 <p align="center"
-   style="font-size: 1.3em; color: #555; margin-top: 0.1em;font-weight: bold;">
-<br>Fail case - No action in robot
+   style="font-size: 1.1em; color: #555; margin-top: 0.1em;font-weight: bold;">
+Fail case - No action in robot<br>
 </p>
 
 
