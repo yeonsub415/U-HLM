@@ -160,7 +160,7 @@ Success/Fail case
 </p>
 <p align="center"
    style="font-size: 1.1em; color: #555; margin-top: 0.1em;font-weight: bold;">
-Success case - Pour<br>
+Success case - Pour<br><br><br>
 </p>
 
 <p align="center">
@@ -174,7 +174,7 @@ Success case - Pour<br>
 </p>
 <p align="center"
    style="font-size: 1.1em; color: #555; margin-top: 0.1em;font-weight: bold;">
-Fail case - When we don't have ingredient<br>
+Fail case - When we don't have ingredient<br><br><br>
 </p>
 
 
@@ -189,7 +189,7 @@ Fail case - When we don't have ingredient<br>
 </p>
 <p align="center"
    style="font-size: 1.1em; color: #555; margin-top: 0.1em;font-weight: bold;">
-Fail case - No action in robot<br>
+Fail case - No action in robot<br><br><br>
 </p>
 
 
