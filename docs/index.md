@@ -165,10 +165,12 @@ Robot Work
 
   <!-- 오른쪽 블록 -->
   <div style="flex: 0 0 48%; text-align: center; margin-bottom: 1em;">
-    <img
-      src="robot2.jpg"
-      style="width: 100%; border-radius: 8px;"
-    />
+  <iframe
+    src="https://www.youtube.com/embed/Yp4QAQ76CIc"
+    frameborder="0"
+    allowfullscreen
+    style="width: 100%;"
+  ></iframe>
     <p style="margin-top: 0.5em; font-size: 1em; line-height: 1.4;">
 Robot Pouring ingredient To Cup
     </p>
