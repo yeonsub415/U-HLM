@@ -144,6 +144,11 @@ Robot Work
 <br><br>
     </p>
 
+<p align="center"
+   style="font-size: 1.3em; color: #555; margin-top: 0.1em;font-weight: bold;">
+Success/Fail case
+</p>
+
 <div
   style="
     display: flex;
