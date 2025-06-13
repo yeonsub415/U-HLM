@@ -194,6 +194,20 @@ Success/Fail case
   <span style="flex: 0 0 48%; text-align: center;">Fail case - When we don't have ingredient</span>
 </p>
 
+<p align="center">
+  <iframe
+    width="800" height="450"
+    src="https://www.youtube.com/embed/QBKoYIm9qIA"
+    frameborder="0"
+    allowfullscreen
+    style="max-width:100%;"
+  ></iframe>
+</p>
+<p align="center" style="max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; gap: 1em;">
+  <span style="flex: 0 0 48%; text-align: center;">Fail case - No action in Robot</span>
+</p>
+
+
 <h4 style="text-align: center; font-size: 1.5em; margin-top: 1em;">
 <br><br>Experiment with Robot
 </h4>
