@@ -158,6 +158,10 @@ Success/Fail case
     style="max-width:100%;"
   ></iframe>
 </p>
+<p align="center"
+   style="font-size: 1.3em; color: #555; margin-top: 0.1em;font-weight: bold;">
+<br>Success case - Pour
+</p>
 
 <p align="center">
   <iframe
@@ -168,10 +172,9 @@ Success/Fail case
     style="max-width:100%;"
   ></iframe>
 </p>
-
 <p align="center"
    style="font-size: 1.3em; color: #555; margin-top: 0.1em;font-weight: bold;">
-<br>
+<br>Fail case - When we don't have ingredient
 </p>
 
 
@@ -184,16 +187,15 @@ Success/Fail case
     style="max-width:100%;"
   ></iframe>
 </p>
+<p align="center"
+   style="font-size: 1.3em; color: #555; margin-top: 0.1em;font-weight: bold;">
+<br>Fail case - No action in robot
+</p>
 
 
 <h4 style="text-align: center; font-size: 1.5em; margin-top: 1em;">
 <br><br>Experiment with Robot
 </h4>
-
-<p align="center"
-   style="font-size: 1.3em; color: #555; margin-top: 0.1em;font-weight: bold;">
-Robot Task Full Video (x6 speed)
-</p>
 
 <p align="center">
   <iframe
@@ -203,6 +205,11 @@ Robot Task Full Video (x6 speed)
     allowfullscreen
     style="max-width:100%;"
   ></iframe>
+</p>
+
+<p align="center"
+   style="font-size: 1.3em; color: #555; margin-top: 0.1em;font-weight: bold;">
+Robot Task Full Video (x6 speed)
 </p>
 
 <p align="center"
